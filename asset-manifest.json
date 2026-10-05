@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.743d21a4.css",
+    "main.js": "/static/js/main.29289ea4.js",
+    "static/js/801.f1ef4836.chunk.js": "/static/js/801.f1ef4836.chunk.js",
+    "static/js/970.0226a00d.chunk.js": "/static/js/970.0226a00d.chunk.js",
+    "static/js/127.f512175a.chunk.js": "/static/js/127.f512175a.chunk.js",
+    "static/media/BannerDesktop2.png": "/static/media/BannerDesktop2.923e805384a61d7837ae.png",
+    "static/media/BannerDesktop.png": "/static/media/BannerDesktop.7473348aef486aad31a0.png",
+    "static/media/BannerDesktopColeshop.png": "/static/media/BannerDesktopColeshop.30b3cdd8428280add0c1.png",
+    "static/media/BannerMobile.png": "/static/media/BannerMobile.e9dde9cfd09cc6b72da8.png",
+    "static/media/BannerMobile2.png": "/static/media/BannerMobile2.993d05d79136a175aac6.png",
+    "static/media/procesando.svg": "/static/media/procesando.6a34205ee5f1429d3a37938119bf4122.svg",
+    "static/media/registro-sucess-64.svg": "/static/media/registro-sucess-64.000fdcda91fdfb646c556e04e30b73e9.svg",
+    "static/media/registro-sucess-128.svg": "/static/media/registro-sucess-128.8e50e65d97857df2aa6fde0da3cc471a.svg",
+    "static/media/pass-64.svg": "/static/media/pass-64.ceb0e33bf1ceb540fe8cf041dcb2ca30.svg",
+    "static/media/lupa.svg": "/static/media/lupa.92c28df3c2053277efbe6d3e61e19127.svg",
+    "static/media/LogoTodoShop_blanco.svg": "/static/media/LogoTodoShop_blanco.ceef9cd4c7bd7789c10bf5142960e020.svg",
+    "static/media/LogoTodoShop.svg": "/static/media/LogoTodoShop.283abd0b83542395343029e0c02a5d6a.svg",
+    "static/media/box.svg": "/static/media/box.0a23f2f2f3dace68b9f1b8885d705d6b.svg",
+    "static/media/retirar.svg": "/static/media/retirar.307aa0b447d1fb5dae3a62db193504f5.svg",
+    "static/media/addphoto_120px.svg": "/static/media/addphoto_120px.0b206b50db092028fd2a5fd9c13c5166.svg",
+    "index.html": "/index.html",
+    "static/media/excel.svg": "/static/media/excel.22b18eb37cc395af82d625ac1e0609d3.svg"
+  },
+  "entrypoints": [
+    "static/css/main.743d21a4.css",
+    "static/js/main.29289ea4.js"
+  ]
+}
